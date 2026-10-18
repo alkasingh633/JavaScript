@@ -5,3 +5,4 @@ let a =10;
     console.log("Inside:", a);
 }
 console.log("Outside:", a);
+console.log("Outside:", a);
