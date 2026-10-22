@@ -6,3 +6,4 @@ let a =10;
 }
 console.log("Outside:", a);
 console.log("Outside:", a);
+console.log("Outside:", a);
